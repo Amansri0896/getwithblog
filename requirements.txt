@@ -1,4 +1,4 @@
 Flask==1.1.2
-pymongo[srv]
+pymongo==3.11.3
 gunicorn
-python-dotenv
+
